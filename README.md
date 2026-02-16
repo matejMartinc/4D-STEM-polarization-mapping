@@ -72,6 +72,7 @@ python pca_classification.py
 
 ```
 
+* **Filtering:** To disable data filtering, uncomment `training_files = None` in the script.
 * **Augmentation:** To disable, comment out lines 120-123 in `pca_classification.py`.
 
 ---
