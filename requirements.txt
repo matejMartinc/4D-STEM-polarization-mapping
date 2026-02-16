@@ -1,0 +1,13 @@
+matplotlib
+pandas
+numpy
+lightning
+torch
+torchmetrics
+torchvision
+scikit-learn
+tifffile
+scipy
+joblib
+albumentations
+opencv-python

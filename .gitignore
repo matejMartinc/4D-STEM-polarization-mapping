@@ -1,0 +1,5 @@
+*.npy
+*.pyc
+.idea
+data*
+results*
